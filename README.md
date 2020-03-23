@@ -1,6 +1,6 @@
 # gsheets-stock
 
-Obtenha preços de ações da Bovespa em planilhas do Google Sheets
+Obtenha preços de ações da Bovespa em planilhas do Google Sheets.
 
 A função `STOCK_PRICES()` recebe um range de strings como parâmetro (código de cada ação) e devolve um array (preços).
 
