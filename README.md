@@ -1,4 +1,4 @@
-# gsheets-stock
+# Google Sheets Stock
 
 Obtenha preços de ações da Bovespa em planilhas do Google Sheets.
 
